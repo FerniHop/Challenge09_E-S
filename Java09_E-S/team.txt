@@ -1,0 +1,2 @@
+Person{firstName='Test1', lastName='Test1', age=30}
+Person{firstName='Test2', lastName='Test2', age=25}
